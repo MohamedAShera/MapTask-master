@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Bond (7.6.6):
+    - Differ (~> 1.4)
+    - ReactiveKit (~> 3.14)
+  - Differ (1.4.5)
+  - GoogleMaps (2.6.0):
+    - GoogleMaps/Maps (= 2.6.0)
+  - GoogleMaps/Base (2.6.0)
+  - GoogleMaps/Maps (2.6.0):
+    - GoogleMaps/Base
+  - JGProgressHUD (2.0.4)
+  - PromisesObjC (1.2.8)
+  - PromisesSwift (1.2.8):
+    - PromisesObjC (= 1.2.8)
+  - ReactiveKit (3.17.1)
+  - SwiftLocation (4.0.2)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.3)
+  - Bond (~> 7.6.0)
+  - GoogleMaps (~> 2.6.0)
+  - JGProgressHUD (~> 2.0.3)
+  - PromisesSwift (~> 1.2.3)
+  - SwiftLocation (~> 4.0.2)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Bond
+    - Differ
+    - GoogleMaps
+    - JGProgressHUD
+    - PromisesObjC
+    - PromisesSwift
+    - ReactiveKit
+    - SwiftLocation
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Bond: 9e7d901cf4ed825b6004a93dd0a7f1c7479e2834
+  Differ: 3b6bd78e2b20cc795d9a86f7641d087524e4273e
+  GoogleMaps: 42f91c68b7fa2f84d5c86597b18ceb99f5414c7f
+  JGProgressHUD: 62658b14e72cccf179efc7a13bcb54d30b92fc22
+  PromisesObjC: c119f3cd559f50b7ae681fa59dc1acd19173b7e6
+  PromisesSwift: 37bad6f4daddb02f7c9c531efe91e8b21c13ee2f
+  ReactiveKit: f578a74d3555296ea61fab228f5245a4ed7b4b27
+  SwiftLocation: 4f030832331a21abaa4e0c5189d0f80ab8d3e377
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: f0b12c738dbfe7eb0f6e7d17ebb030fe32c1a7a9
+
+COCOAPODS: 1.9.2
